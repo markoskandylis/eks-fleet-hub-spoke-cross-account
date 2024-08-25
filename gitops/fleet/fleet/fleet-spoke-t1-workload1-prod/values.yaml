@@ -1,0 +1,3 @@
+externalSecret:
+    secretName: "fleet-spoke-t1-workload1-prod"
+    secretManagerSecretName: "fleet-hub-cluster/fleet-spoke-T1-Workload1-Prod"
